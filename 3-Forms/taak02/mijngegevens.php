@@ -43,11 +43,11 @@
         Wat is uw lievelingskleur ?
         <br>
         <select name="lievelingskleur">
-            <option value="Red">Rood</option>
-            <option value="Blue">Blauw</option>
-            <option value="Purple">Paars</option>
-            <option value="Yellow">Geel</option>
-            <option value="Green">Groen</option>
+            <option value="red">Rood</option>
+            <option value="blue">Blauw</option>
+            <option value="purple">Paars</option>
+            <option value="yellow">Geel</option>
+            <option value="green">Groen</option>
         </select>
         <br>
         <input type="submit" name="Verstuur antwoord.">

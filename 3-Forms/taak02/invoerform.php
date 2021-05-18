@@ -16,6 +16,7 @@ echo "<br>";
 echo "Geslacht is; ".$_POST["geslacht"]; 
 echo "<br>";
 echo "Lievelingskleur is; ".$_POST["lievelingskleur"]; 
-
+$achtergrondkleur= $_POST["lievelingskleur"];
+echo "<body style ='background-color:$achtergrondkleur'>";
 ?>
 
